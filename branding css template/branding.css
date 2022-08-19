@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: rgba(212, 224, 239, 0.716);
+}
+h2{
+    
+    text-transform: capitalize;
+    font-size: xx-large;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}
+.sectionB{
+    margin-left: 150px;
+}
+ .section_top .sectionC {
+   width: max-content;
+   height: max-content;
+   margin-top: -250px;
+   margin-left: 500px;
+}
+
+ .sectionC h1{
+text-transform: uppercase;
+    color: orangered;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 50px;
+}
+.sectionC p{
+    font-size: x-large;
+}
+.read button{
+    
+    font-size: large;
+    width: 130px;
+    height: 40px;
+    margin-left: 500px;
+    color: white;
+    background: orangered;
+    margin-top: 50px;
+}
+.read button:hover {
+    cursor: pointer;
+    background: darkblue ;
+    color: white;
+}
